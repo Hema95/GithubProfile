@@ -405,14 +405,12 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #FF9000;
 }
 
-.fh5co-heading {
-  margin-bottom: 2em;
-}
+
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
 }
 .fh5co-heading h2 {
-  font-size: 40px;
+  font-size: 25px;
   margin-bottom: 20px;
   line-height: 1.5;
   color: #000;
